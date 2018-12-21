@@ -4,8 +4,8 @@ public class Introducao {
 
 	public static void main(String[] args) {
 
-		System.out.println("Ol·, essa È uma mensagem de introduÁ„o ao projeto!");
-
+		System.out.println("Ol√°, essa √© uma mensagem de introdu√ß√£o ao projeto!");
+		System.out.println("Vamos come√ßar!");
 	}
 
 }
